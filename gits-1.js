@@ -11,3 +11,4 @@ var boj2 = {
 var arr1 = [1,2,3,4,5,6]
 var arr2 = ['q',1,'q',2]
 var str = 'weqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqwe'
+var str2 = '12323'
