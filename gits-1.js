@@ -9,3 +9,4 @@ var boj2 = {
 	tall:10
 }
 var arr1 = [1,2,3,4,5,6]
+var arr2 = ['q',1,'q',2]
