@@ -8,3 +8,4 @@ var boj2 = {
 	age:100,
 	tall:10
 }
+var arr1 = [1,2,3,4,5,6]
